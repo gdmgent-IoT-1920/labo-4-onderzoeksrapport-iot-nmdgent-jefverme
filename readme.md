@@ -52,7 +52,7 @@ Van zodra een auto begint te parkeren meten de sensoren de afstand tussen uw voe
 
 Tegenwoordig gaan ze een stap verder met dergelijke systemen. Zo zijn er bepaalde auto’s die aan de hand van de parkeersensoren automatisch kunnen inparkeren zonder tussenkomst van de bestuurder. 
 
-[park assist volkswagen](https://www.carsystems.eu/img/products/69/6/26_max.jpg)
+![park assist volkswagen](https://www.carsystems.eu/img/products/69/6/26_max.jpg)
 
 ## Bewegingssensor
 
