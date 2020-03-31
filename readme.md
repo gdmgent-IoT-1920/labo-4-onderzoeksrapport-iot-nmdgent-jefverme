@@ -88,3 +88,20 @@ Een temperatuursensor gaat de fysische grootheid temperatuur uitlezen en omzette
 
 
 ## Druksensor
+
+Een druksensor is een inrichting voor drukmeting van gassen of vloeistoffen . Druk is een uitdrukking van de kracht die nodig is om een fluïdum te stoppen uitzet, en wordt gewoonlijk gepresenteerd in termen van kracht per oppervlakte-eenheid. Een druksensor werkt gewoonlijk als een transductor ; genereert het een signaal als functie van de opgelegde druk. Voor de toepassing van dit artikel, zoals een elektrisch signaal.
+
+Druksensoren voor de besturing en bewaking in duizenden alledaagse toepassingen. Druksensoren kunnen worden gebruikt om indirect meten van andere variabelen, zoals vloeistof / gas stroom, snelheid, waterniveau en hoogte . Druksensoren kunnen ook worden genoemd drukopnemers , drukopnemers , druk afzenders , drukmeters , piëzometers en manometers onder andere namen.
+
+Druksensoren kan sterk variëren technologie, design, prestaties, geschiktheid toepassing en kosten. Een voorzichtige schatting zou zijn dat er wellicht meer dan 50 technologieën en ten minste 300 bedrijven die druksensoren wereldwijd.
+
+Er is ook een categorie van druksensoren die zijn ontworpen om te meten in een dynamische modus voor het vastleggen van zeer hoge snelheid veranderingen in druk. Voorbeeld toepassingen voor dit type sensor zou in het meten van de verbrandingsdruk in een motorcilinder of een gasturbine. Deze sensoren worden gewoonlijk vervaardigd uit piëzo-elektrisch materiaal zoals kwarts.
+
+Aantal druksensoren drukschakelaars , die in- of uitschakelen bij een bepaalde druk. Bijvoorbeeld kan een pomp worden geregeld door een drukschakelaar, zodat het begint wanneer water uit het systeem, waardoor de druk in een reservoir.
+
+### Soorten drukmeting
+
+*   Druksensor: meet de druk ten opzichte van een vacuuüm.
+*   Manometerdruk sensor: meet de druk gerelateerd aan de atmosferische druk. Een band drukmeter is een voorbeeld van overdruk meten. 
+*   Vacuüm druksensor: Deze sensor meet het veerschil tussen twee drukken, één verbonden met elke zijde van de sensor. 
+*   Sealed druksensor: Deze sensor is vergelijkbaar met een druk sensor uitzondering meet druk relatief aan een vaste druk dan de atmosferische druk, die varieert afhankelijk van de locatie en het weer.
